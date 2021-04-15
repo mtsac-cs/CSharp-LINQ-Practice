@@ -16,11 +16,11 @@ class Program
 }
 ```
 
-When you run the program the ``itemMasters`` list will popuplate with items from a zip file included with this repository. You can use that to practice all of the LINQ extensions.
+When you run the program the ``itemMasters`` list will populate with items from a zip file included with this repository. You can use that to practice all of the LINQ extensions.
 
 
 
-## Exampe:
+## Example:
 
 In this example code we are using the LINQ extension ``FirstOrDefault`` to find the first item whose name is ``HP Potion I``. We're then outputting the item's name to console to show whether or not it successfully found it.
 ```
